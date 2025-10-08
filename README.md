@@ -81,14 +81,20 @@ Supports hybrid and multi-region connections.
 
 ## OUTPUT:
 Azure portal login page
-<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/1d07414f-8077-404c-babe-f7400ec43974" />
+
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/89264660-b504-4c66-bb84-39397f3ba29a" />
+
 Services in Azure
-<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/cdce0619-b455-4ccf-ab26-7277e89a38c5" />
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/8c45ec98-9cfa-497d-bfe9-5b4c9f8b914a" />
 
 
 
-### REG NUMBER: 212222040177
-### NAME: Venkatesan.M
+
+
+### REG NUMBER: 212223040021
+### NAME: Ashwin Kumar A
  
 ## RESULT:
 Thus, a cloud account was successfully created in Microsoft Azure, and various services such as  Compute, Networking , and Storage were explored.
